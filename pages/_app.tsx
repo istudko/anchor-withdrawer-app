@@ -15,10 +15,14 @@ export default function App({
   const main = (
     <main>
       <header style={{ display: 'flex', gap: '1em' }}>
-        <h1>Anchor Withdrawer</h1>
+        <h1>💸 Anchor Withdrawer 💸</h1>
       </header>
       <pre>A simple tool for withdraw UST from Anchor protocol</pre>
-      <a href="https://github.com/istudko/anchor-withdrawer-app" target="_blank">source code</a>
+      <p>
+      This is a self-made app. I would suggest you to try withdraw a <b>small amount of aUST</b> first.
+      <br />
+      The source code is open for any contribution here <a href="https://github.com/istudko/anchor-withdrawer-app" target="_blank">https://github.com/istudko/anchor-withdrawer-app</a> (especially UI part 😂)
+      </p>
       <Component />
       <br />
       <footer><i>Disclaimer: this is a self-made app. use at your own risk</i></footer>
