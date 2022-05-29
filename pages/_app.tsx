@@ -18,8 +18,10 @@ export default function App({
         <h1>Anchor Withdrawer</h1>
       </header>
       <pre>A simple tool for withdraw UST from Anchor protocol</pre>
-
+      <a href="https://github.com/istudko/anchor-withdrawer-app" target="_blank">source code</a>
       <Component />
+      <br />
+      <footer><i>Disclaimer: this is a self-made app. use at your own risk</i></footer>
     </main>
   );
 
