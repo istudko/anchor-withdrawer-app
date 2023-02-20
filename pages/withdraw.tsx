@@ -52,6 +52,7 @@ export default function Withdraw() {
             }
           )
         ],
+        fee: new Fee(1000000, {"uusd": 1000000}),
       })
       .then((nextTxResult: TxResult) => {
         console.log(nextTxResult);
