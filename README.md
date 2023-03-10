@@ -1,7 +1,7 @@
 # :money_with_wings: anchor-withdrawer-app :money_with_wings:
 A simple tool for withdraw UST from Anchor protocol
 
-<https://anchor-withdrawer-app.wheee.dev>
+<https://anchor-withdrawer.wheee.dev>
 
 ## How to use
 1. Connect your wallet
